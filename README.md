@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey there! 👋
+I'm Varsha Shanmugam — a curious builder passionate about creating meaningful and impactful things through technology.
 
-<!--
-**varshas26022-create/varshas26022-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy exploring ideas, learning new tools, and turning concepts into real-world projects.
+Currently focused on improving my skills, building consistently, and growing one step at a time. 
+I like building projects that combine creativity, technology, and problem-solving.
 
-Here are some ideas to get you started:
+🚀 Currently Working On
+AI & healthcare-related projects
+Python and software development
+Exploring AI-driven and real-world tech solutions
+Building projects that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+Python
+Git & GitHub
+VS Code
+Figma & Canva
+Prompt Engineering
+AI Productivity Tools
+
+🌱 Beyond Tech
+interested in creativity, design & innovation
+love cold weather, art & cosy aesthetics
+Believe consistency creates confidence
+
+📫 Reach Me
+LinkedIn: https://www.linkedin.com/in/varsha262
+Email: varshas26022@gmail.com
+
+> “Building my future one project at a time.” ✨
