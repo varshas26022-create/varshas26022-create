@@ -1,43 +1,63 @@
-# Hey there! 👋
+```md
+<h1 align="center">Hey there 👋, I'm Varsha Shanmugam</h1>
+
+<h3 align="center">Curious creator • Tech enthusiast • Building meaningful things ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality+✨;Learning+something+new+everyday+🚀;Building+my+future+with+technology+💻;Dreaming+big+and+creating+bigger+🌸" alt="Typing SVG" />
 </p>
 
-I'm Varsha — a curious builder passionate about creating meaningful and impactful things through technology.
-
-I enjoy exploring ideas, learning new tools, and turning concepts into real-world projects.
-
----
-
-## 🚀 Currently Working On
-- AI & healthcare related projects
-- Python and software development
-- Building real-world projects
-- Exploring creativity & technology
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python
-- Git & GitHub
-- VS Code
-- Figma & Canva
-- AI Productivity Tools
+## 🌸 About Me
+
+- 🌱 currently learning and building every day
+- 💻 interested in technology, creativity & innovation
+- 🚀 passionate about turning ideas into real projects
+- ✨ obsessed with growth and meaningful work
+- ☁️ love cozy vibes, aesthetics & peaceful coding nights
 
 ---
 
-## 🌱 Beyond Tech
-- interested in creativity, design & innovation
-- love cold weather & cozy aesthetics
-- believe consistency creates confidence
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📫 Reach Me
-- LinkedIn: https://www.linkedin.com/in/varsha262
-- Email: varsha26022@gmail.com
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> “Building my future one project at a time.” ✨
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOURLINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=120&section=footer"/>
+</p>
+```
