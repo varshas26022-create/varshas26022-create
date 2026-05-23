@@ -23,7 +23,7 @@
 ### 🦵 Hybrid Sensor-Based Cramp Prediction System
 Developed an AI-integrated wearable system using **EMG, GSR & Flex Sensors** connected with **Arduino** for real-time muscle cramp prediction and prevention.
 
-### 🌸 Femlexa — Smart Women's Period Tracker
+### 🌸 Femnexa — Smart Women's Period Tracker
 Designed and developed a women-focused period tracking application with smart health tracking and user-friendly experience.
 
 ### 🎮 BioLadder
