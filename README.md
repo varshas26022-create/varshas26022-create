@@ -102,4 +102,3 @@ Built a biology-integrated educational Snake & Ladder game combining learning wi
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:111B44,100:162561&height=120&section=footer"/>
-```
